@@ -15,11 +15,7 @@ def introduction_with_language_optional(name, language = Ruby)
 end
 
 
-introduction(Kathleen)
 
-introduction_with_language(Kathleen, Ruby)
-
-introduction_with_language_optional(Kathleen)
 
 
 
